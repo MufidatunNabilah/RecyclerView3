@@ -189,6 +189,7 @@ public class MainActivity extends AppCompatActivity implements HotelAdapter.IHot
                 .show();
     }
 
+    
     @Override
     public void doFav(int pos) {
 
